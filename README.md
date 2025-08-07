@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Eobam
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Java script
+- 💞️ I’m looking to collaborate on whatever
+- 📫 How to reach me: Email: elliottlieberman123@gmail.com
 
 <!---
 Eobam/Eobam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
